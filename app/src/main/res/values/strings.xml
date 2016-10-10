@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="add_note_text">Add note</string>
+    <string name="save_note_text">Save</string>
+    <string name="back_text">Back</string>
+    <string name="important_note">Important</string>
+    <string name="enter_text">Enter text</string>
+    <string name="enter_name">Enter name</string>
+
+
+
+</resources>

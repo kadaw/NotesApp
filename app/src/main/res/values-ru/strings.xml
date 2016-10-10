@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="add_note_text">Добавить</string>
+    <string name="save_note_text">Сохранить</string>
+    <string name="back_text">Назад</string>
+    <string name="important_note">Важная заметка</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="enter_name">Введите название</string>
+
+
+
+</resources>
